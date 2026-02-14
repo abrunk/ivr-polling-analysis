@@ -1,0 +1,26 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (raw data can be large)
+*.rdata
+*.RData
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.html
+*.pdf
+
+# Environment
+.env
+.Renviron
+renv/library/
+
+# Keep directory structure
+!.gitkeep
