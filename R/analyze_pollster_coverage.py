@@ -4,9 +4,9 @@ Analyze pollster coverage across 2012-2018 data and match with thesis mappings
 import csv
 from collections import Counter
 
-# Read master methodology mappings
+# Read final methodology mappings
 thesis_map = {}
-with open(r'C:\Users\Alexander\Projects\ivr-polling-analysis\data\processed\pollster_methodology_master.csv', 'r') as f:
+with open(r'C:\Users\Alexander\Projects\ivr-polling-analysis\data\processed\pollster_methodology_final.csv', 'r') as f:
     reader = csv.DictReader(f)
     for row in reader:
         pollster = row['pollster'].strip('"')

@@ -1,0 +1,298 @@
+pollster,methodology,source,notes
+ARG,Live,thesis_2010,
+Alabama State University,Live,heuristic,name pattern: university(?! of phoenix)
+American Research Group,Live,web_research_2026,"Live telephone interviews, landline+cell, address-based sampling since 2014 (ARG website, Wikipedia)"
+Angus Reid Global,Online,web_research_2026,Known for online polling methodology
+Anzalone-Liszt (D-DSCC),Live,thesis_2010,
+Anzalone-Liszt (D-Melancon),Live,thesis_2010,
+Arizona State University,Live,heuristic,name pattern: university(?! of phoenix)
+BPN (D-DSCC),Live,thesis_2010,
+BPN (D-Sestak),Live,thesis_2010,
+Baltimore Sun/OpinionWorks,Live,thesis_2010,
+Baruch College,Live,heuristic,name pattern: college
+Basswood (R)/NRSC,Live,thesis_2010,
+Benenson (D-Conway),Live,thesis_2010,
+Benenson (D-DSCC),Live,thesis_2010,
+Benenson (D-Lincoln),Live,thesis_2010,
+Brigham Young University,Live,heuristic,name pattern: university(?! of phoenix)
+Brown University,Live,heuristic,name pattern: university(?! of phoenix)
+Brown University A. Alfred Taubman Center for American Politics and Policy,Live,heuristic,name pattern: university(?! of phoenix)
+CBS/Times,Live,thesis_2010,
+CN2 Politics/Braun,Live,thesis_2010,
+CNN/Opinion Research,Live,web_research_2026,Live telephone interviews (standard for CNN polls)
+CNN/Opinion Research Corp.,Live,fuzzy_match,matched to: cnn/opinion research
+CNN/Opinion Research Corporation,Live,fuzzy_match,matched to: cnn/opinion research
+CNN/Time,Live,thesis_2010,
+CT Capitol Report/Merriman,IVR,thesis_2010,
+"California State University, Bakersfield",Live,heuristic,name pattern: university(?! of phoenix)
+Canisius College,Live,heuristic,name pattern: college
+Castleton State College,Live,heuristic,name pattern: college
+Castleton University,Live,heuristic,name pattern: university(?! of phoenix)
+Centre College,Live,heuristic,name pattern: college
+Chicago Tribune,Live,thesis_2010,
+Christopher Newport University,Live,heuristic,name pattern: university(?! of phoenix)
+Christopher Newport University Wason Center for Civic Leadership,Live,heuristic,name pattern: university(?! of phoenix)
+Civitas Institute (R) / Tel Opinon (R),Live,thesis_2010,
+Civitas Institute / Tel Opinon (R),Live,thesis_2010,
+Civitas Institute/National Research (R),Live,thesis_2010,
+Civitas Institute/Tel Opinon (R),Live,thesis_2010,
+Clemson University,Live,heuristic,name pattern: university(?! of phoenix)
+Craciun Research (D),Live,thesis_2010,
+Critical Insights,Live,thesis_2010,
+DailyKos.com/PPP (D),IVR,thesis_2010,
+Dan Jones & Associates,Live,thesis_2010,
+Dartmouth College,Live,heuristic,name pattern: college
+"Davis, Hibbitts & Midghall",Live,thesis_2010,
+Democracy Corps (D),Live,thesis_2010,
+Denver Post/SurveyUSA,IVR,thesis_2010,
+Des Moines Register/Selzer,Live,thesis_2010,
+Deseret Morning News,Live,thesis_2010,
+Dittman (R),Live,thesis_2010,
+EPIC-MRA,Live,web_research_2026,Michigan-based polling firm - likely live phone (standard for regional firms)
+Ed Renwick/Loyola University New Orleans,Live,heuristic,name pattern: university(?! of phoenix)
+Elon University,Live,heuristic,name pattern: university(?! of phoenix)
+Elway,Live,thesis_2010,
+Emerson College,IVR,web_research_2026,"IVR to landlines (2016), mixed IVR+online (2018+) (Emerson website, Ballotpedia)"
+FL Chamber of Commerce,Live,thesis_2010,
+FM3 (D-Patriot Majority),Live,thesis_2010,
+FMMA (D-DSCC),Live,thesis_2010,
+FOX,IVR,thesis_2010,
+"Fabrizio, McLaughlin (R)",Live,thesis_2010,
+"Fairbank, Maslin, Maulin, Metz & Associates (D-DSCC)",Live,thesis_2010,
+Fairleigh Dickinson,Live,thesis_2010,
+Fairleigh Dickinson University,Live,heuristic,name pattern: university(?! of phoenix)
+Fairleigh Dickinson University (PublicMind),Live,heuristic,name pattern: university(?! of phoenix)
+Field,Live,thesis_2010,
+Florida Atlantic University,Live,heuristic,name pattern: university(?! of phoenix)
+Florida International University/Univision,Live,heuristic,name pattern: university(?! of phoenix)
+Fort Hays State University,Live,heuristic,name pattern: university(?! of phoenix)
+Franklin & Marshall College,Live,heuristic,name pattern: college
+Franklin & Marshall College Center for Opinion Research,Live,heuristic,name pattern: college
+Franklin Pierce University,Live,heuristic,name pattern: university(?! of phoenix)
+Franklin and Marshall College,Live,thesis_2010,
+Frederick Polls (Crist),Live,thesis_2010,
+Fulcrum (R-Kirk),Live,thesis_2010,
+GQR (D-Blumenthal),Live,thesis_2010,
+GQR (D-DSCC),Live,thesis_2010,
+GQR (D-Giannoulias),Live,thesis_2010,
+GQR/AmericanViewpoint,Live,thesis_2010,
+GSG (D-Manchin),Live,thesis_2010,
+Gallup,Live,web_research_2026,"Live interviewer, dual-frame landline+cell (Gallup.com)"
+Garin Hart Yang (D-DSCC),Live,thesis_2010,
+George Washington University,Live,web_research_2026,"Battleground Poll - university-based, likely live phone with CATI"
+George Washington University (Battleground),Live,heuristic,name pattern: university(?! of phoenix)
+Global Strategy Group (D)/MO Democratic Party,Live,thesis_2010,
+Global Strategy Group (D-DGA),Live,thesis_2010,
+Gonzales Research,Live,thesis_2010,
+GrassrootsPA (R) / Dane (R),IVR,thesis_2010,
+Gravis Marketing,IVR,web_research_2026,"Proprietary IVR system, mixed-mode with 70% IVR landline + 30% web panel to cell users (Gravis website)"
+Greenberg Quinlan Rosner,Live,web_research_2026,Live phone interviews including cell phones. Democratic consulting firm. High quality.
+Greenberg Quinlan Rosner (Democracy Corps),Live,web_research_2026,Live phone interviews including cell phones. Same as GQR.
+Grove Insight (D),Live,thesis_2010,
+Hampton University,Live,heuristic,name pattern: university(?! of phoenix)
+Harris Interactive,Online,web_research_2026,"Online internet panel, multimillion members (Harris Interactive website)"
+"Harris Interactive, online",Online,heuristic,name pattern: interactive(?!.*voice)
+"Harris Interactive, telephone",Online,heuristic,name pattern: interactive(?!.*voice)
+Harstad (D-Bennet),Live,thesis_2010,
+Hart Research Associates/Public Opinion Strategies,Live,heuristic,name pattern: research\s+associates
+Harvard University,Live,heuristic,name pattern: university(?! of phoenix)
+Hays Research (D),Live,thesis_2010,
+Hays Research (D-DSCC),Live,thesis_2010,
+Hellenthal/Alaskans Standing Together,Live,thesis_2010,
+Hendrix College,IVR,thesis_2010,
+High Point University,Live,heuristic,name pattern: university(?! of phoenix)
+High Point University Survey Research Center,Live,heuristic,name pattern: university(?! of phoenix)
+Howey Politics/DePauw University,Live,heuristic,name pattern: university(?! of phoenix)
+IVR Polls,IVR,heuristic,name pattern: ivr
+Illinois Wesleyan University,Live,heuristic,name pattern: university(?! of phoenix)
+Indiana University,Live,heuristic,name pattern: university(?! of phoenix)
+Indiana University-Purdue University Fort Wayne,Live,heuristic,name pattern: university(?! of phoenix)
+InsiderAdvantage,IVR,thesis_2010,
+Iona College,Live,heuristic,name pattern: college
+Iowa State University,Live,heuristic,name pattern: university(?! of phoenix)
+Ipsos,Live,thesis_2010,
+"Ipsos, online",Online,heuristic,name pattern: online
+Ipsos/Reuters,Live,thesis_2010,
+Ivan Moore,Live,thesis_2010,
+Lake (D-Marshall),Live,thesis_2010,
+Landmark Comm. (R),IVR,thesis_2010,
+Liberty Opinion Research,Live,heuristic,name pattern: opinion\s+research
+Loras College,Live,heuristic,name pattern: college
+Los Angeles Times,Online,web_research_2026,USC Dornsife partnership - probability-based online panel (Understanding America Study)
+Loyola University (New Orleans),Live,heuristic,name pattern: university(?! of phoenix)
+Lycoming College,Live,heuristic,name pattern: college
+Magellan (R),IVR,thesis_2010,
+Magellan (R-Kirk),IVR,thesis_2010,
+Manhattanville College,Live,heuristic,name pattern: college
+Marist,Live,thesis_2010,
+Marist College,Live,thesis_2010,From thesis data (fuzzy match)
+Marist/McClatchy,Live,thesis_2010,
+Marquette University,Live,heuristic,name pattern: university(?! of phoenix)
+Marquette University Law School,Live,heuristic,name pattern: university(?! of phoenix)
+Marshall/Orion,Live,thesis_2010,
+Mason-Dixon,Live,thesis_2010,
+Mason-Dixon/Idaho Newspapers,Live,thesis_2010,
+McLaughlin (R)/AIF,Live,thesis_2010,
+Mercyhurst University Center for Applied Politics,Live,heuristic,name pattern: university(?! of phoenix)
+Michigan State University Institute for Public Policy and Social Research,Live,heuristic,name pattern: university(?! of phoenix)
+Middle Tennessee State University,Live,heuristic,name pattern: university(?! of phoenix)
+Millersville University,Live,heuristic,name pattern: university(?! of phoenix)
+Minnesota State University Moorhead,Live,heuristic,name pattern: university(?! of phoenix)
+Missouri State University,Live,heuristic,name pattern: university(?! of phoenix)
+Missouri State University /KOLR,Live,thesis_2010,
+Mitchell Research,Live,web_research_2026,Research firm - likely live phone (standard for established research firms)
+Monmouth University,Live,web_research_2026,"Live phone to landlines+cells + online surveys via text/email (Monmouth website, Wikipedia)"
+Monmouth University Polling Institute,Live,heuristic,name pattern: university(?! of phoenix)
+Monmouth/Gannett,Live,thesis_2010,
+Montana State University Billings,Live,heuristic,name pattern: university(?! of phoenix)
+Moore Information (R-NRSC),Live,thesis_2010,
+Muhlenberg,Live,thesis_2010,
+Muhlenberg College,Live,heuristic,name pattern: college
+Muhlenberg College Institute of Public Opinion,Live,heuristic,name pattern: college
+NYTimes Newspapers,Live,thesis_2010,
+National Research/Club for Growth (R-Miller),Live,thesis_2010,
+New England College,Live,heuristic,name pattern: college
+New Mexico State University,Live,heuristic,name pattern: university(?! of phoenix)
+New York Times,Live,thesis_2010,
+North Star Opinion Research,Live,heuristic,name pattern: opinion\s+research
+"North Star Opinion Research/Ayres, McHenry & Associates",Live,heuristic,name pattern: opinion\s+research
+Northern Arizona University,Live,heuristic,name pattern: university(?! of phoenix)
+Now Hampshire,Live,thesis_2010,
+Ohio State University,Live,heuristic,name pattern: university(?! of phoenix)
+Ohio University,Live,heuristic,name pattern: university(?! of phoenix)
+Old Dominion University,Live,heuristic,name pattern: university(?! of phoenix)
+Opinion Research Associates,Live,heuristic,name pattern: research\s+associates
+Opinion Savvy/InsiderAdvantage,IVR,heuristic,name pattern: insider\s*advantage
+POS (R),Live,thesis_2010,
+POS (R) / FM3 (D),Live,thesis_2010,
+POS (R-Poizner),Live,thesis_2010,
+PPIC,Live,thesis_2010,
+PPP (D),IVR,thesis_2010,
+PPP (D-Carnahan),IVR,thesis_2010,
+Pajamas Media (R),IVR,thesis_2010,
+Pew Research/Princeton Survey Research Associates International,Live,heuristic,name pattern: research\s+associates
+Pharos Research Group,Unknown,web_research_2026,Limited public information
+PoliticsPA/Municipoll,IVR,thesis_2010,
+Princeton Survey Research Associates,Live,web_research_2026,Princeton SRAA - highly regarded live phone interviewing firm
+Princeton Survey Research Associates International,Live,heuristic,name pattern: research\s+associates
+Probolsky Research,IVR,heuristic,name pattern: robo
+Public Opinion Strategies (R),Live,thesis_2010,
+Public Policy Polling,IVR,web_research_2026,"Uses IVR automated questionnaire (AAPOR, Wikipedia)"
+Pulse Opinion Research,Live,heuristic,name pattern: opinion\s+research
+Quinnipiac,Live,thesis_2010,
+Quinnipiac University,Live,thesis_2010,From thesis data (fuzzy match)
+R.L. Repass & Partners,Live,thesis_2010,
+RAND (American Life Panel),Online,heuristic,name pattern: panel
+RAND Corporation,Online,web_research_2026,Uses probability-based online panels for most research
+RBI (D),Live,thesis_2010,
+RT Strategies,Live,web_research_2026,Research firm - likely live phone
+Rasmussen,IVR,thesis_2010,
+Rasmussen Reports/Pulse Opinion Research,Live,heuristic,name pattern: opinion\s+research
+Research 2000,Exclude,web_research_2026,DISCREDITED - Data fabrication scandal 2010. Daily Kos lawsuit. Should be excluded from analysis.
+Reuters/Ipsos,Live,thesis_2010,
+Rhode Island College,Live,heuristic,name pattern: college
+Rice University,Live,heuristic,name pattern: university(?! of phoenix)
+Riley Research Associates,Live,heuristic,name pattern: research\s+associates
+Roanoke College,Live,heuristic,name pattern: college
+Roanoke College Institute for Policy and Opinion Research,Live,heuristic,name pattern: college
+Rutgers University,Live,heuristic,name pattern: university(?! of phoenix)
+Rutgers University Eagleton Center for Public Interest Polling,Live,heuristic,name pattern: university(?! of phoenix)
+Saint Leo University,Live,heuristic,name pattern: university(?! of phoenix)
+Siena,Live,thesis_2010,
+Siena College,Live,web_research_2026,Live telephone interviews (university-based polling centers typically use live interviewers)
+SoonerPoll.com,Live,thesis_2010,
+Southeastern Louisiana University,Live,heuristic,name pattern: university(?! of phoenix)
+Southern Illinois U,Live,thesis_2010,
+Southern Illinois University Paul Simon Public Policy Institute,Live,heuristic,name pattern: university(?! of phoenix)
+Southern Media & Opinion Research,Live,heuristic,name pattern: opinion\s+research
+Southern Media & Opinion Research/Lane Grigsby,Live,thesis_2010,
+Southern Media/Opinion Research,Live,thesis_2010,
+Southern Opinion Research,Live,heuristic,name pattern: opinion\s+research
+St Norbert,Live,thesis_2010,
+St. Cloud State University,Live,heuristic,name pattern: university(?! of phoenix)
+St. Norbert College,Live,heuristic,name pattern: college
+St. Norbert College Strategic Research Institute,Live,heuristic,name pattern: college
+Stockton College,Live,heuristic,name pattern: college
+Stockton University,Live,heuristic,name pattern: university(?! of phoenix)
+Stockton University William J. Hughes Center for Public Policy,Live,heuristic,name pattern: university(?! of phoenix)
+Strategic Vision,Live,web_research_2026,Traditional polling firm using live interviewers
+Suffolk,Live,thesis_2010,
+Suffolk University,Live,web_research_2026,Live telephone interviews (university-based polling centers typically use live interviewers)
+SurveyMonkey,Online,web_research_2026,Non-probability online panel (opt-in river sample). 335M+ panel with weighting.
+SurveyUSA,IVR,thesis_2010,
+SurveyUSA/U of Delaware,IVR,thesis_2010,
+Susquehanna,IVR,thesis_2010,
+TCJ Research,Unknown,web_research_2026,No public information found about methodology
+TCPalm.com/Zogby,Internet,thesis_2010,
+Talk Business/Zata3 (D),IVR,thesis_2010,
+Tarrance (R-Fiorina/NRSC),Live,thesis_2010,
+Tel Opinion Research,Live,heuristic,name pattern: opinion\s+research
+Temple University,Live,heuristic,name pattern: university(?! of phoenix)
+UNH,Live,thesis_2010,
+USC/LATimes,Live,thesis_2010,
+UW Badger Poll,Live,thesis_2010,
+University Massachusetts Lowell,Live,heuristic,name pattern: university(?! of phoenix)
+"University Nevada, Las Vegas",Live,heuristic,name pattern: university(?! of phoenix)
+University WisconsinÑMilwaukee,Live,heuristic,name pattern: university(?! of phoenix)
+University of Alabama,Live,heuristic,name pattern: university(?! of phoenix)
+University of Arkansas,Live,heuristic,name pattern: university(?! of phoenix)
+University of Arkansas Department of Political Science,Live,heuristic,name pattern: university(?! of phoenix)
+University of Cincinnati,Live,thesis_2010,
+University of Cincinnati (Ohio Poll),Live,heuristic,name pattern: university(?! of phoenix)
+University of Connecticut,Live,heuristic,name pattern: university(?! of phoenix)
+University of Denver,Live,heuristic,name pattern: university(?! of phoenix)
+University of Florida,Live,heuristic,name pattern: university(?! of phoenix)
+University of Georgia,Live,heuristic,name pattern: university(?! of phoenix)
+University of Houston,Live,heuristic,name pattern: university(?! of phoenix)
+University of Illinois at Chicago,Live,heuristic,name pattern: university(?! of phoenix)
+University of Iowa,Live,heuristic,name pattern: university(?! of phoenix)
+University of Massachusetts Amherst,Live,heuristic,name pattern: university(?! of phoenix)
+University of Massachusetts Lowell,Live,heuristic,name pattern: university(?! of phoenix)
+University of Massachusetts Lowell Center for Public Opinion,Live,heuristic,name pattern: university(?! of phoenix)
+University of Miami (Florida Voter),Live,heuristic,name pattern: university(?! of phoenix)
+University of Nevada Las Vegas,Live,heuristic,name pattern: university(?! of phoenix)
+University of New Hampshire,Live,web_research_2026,"40-station CATI system with trained live interviewers, RDD landline+cell (UNH Survey Center)"
+University of New Hampshire Survey Center,Live,heuristic,name pattern: university(?! of phoenix)
+University of New Orleans,Live,heuristic,name pattern: university(?! of phoenix)
+University of North Carolina,Live,heuristic,name pattern: university(?! of phoenix)
+University of North Florida,Live,heuristic,name pattern: university(?! of phoenix)
+University of North Florida Public Opinion Research Lab,Live,heuristic,name pattern: university(?! of phoenix)
+University of South Alabama,Live,heuristic,name pattern: university(?! of phoenix)
+University of South Florida,Live,heuristic,name pattern: university(?! of phoenix)
+University of Southern California,Live,heuristic,name pattern: university(?! of phoenix)
+University of Southern California Dornsife Center for Economic and Social Research,Live,heuristic,name pattern: university(?! of phoenix)
+University of Tennessee,Live,heuristic,name pattern: university(?! of phoenix)
+University of Texas,Live,heuristic,name pattern: university(?! of phoenix)
+"University of Texas, online",Online,heuristic,name pattern: online
+"University of Texas, telephone",Live,heuristic,name pattern: university(?! of phoenix)
+University of Washington,Live,heuristic,name pattern: university(?! of phoenix)
+University of Washington Center for Survey Research,Live,heuristic,name pattern: university(?! of phoenix)
+University of Wisconsin (Badger Poll),Live,heuristic,name pattern: university(?! of phoenix)
+University of Wisconsin Milwaukee,Live,heuristic,name pattern: university(?! of phoenix)
+Utah State University,Live,heuristic,name pattern: university(?! of phoenix)
+VCR (R) / We The People,Live,thesis_2010,
+Vanderbilt University,Live,heuristic,name pattern: university(?! of phoenix)
+Virginia Commonwealth University,Live,heuristic,name pattern: university(?! of phoenix)
+Voter/Consumer Research,Live,thesis_2010,
+Washington Post,Live,thesis_2010,
+We Ask America,IVR,thesis_2010,
+West Chester University,Live,heuristic,name pattern: university(?! of phoenix)
+Western Kentucky University,Live,heuristic,name pattern: university(?! of phoenix)
+Western New England University,Live,heuristic,name pattern: university(?! of phoenix)
+Western New England University Polling Institute,Live,heuristic,name pattern: university(?! of phoenix)
+Wiese Research Associates,Live,heuristic,name pattern: research\s+associates
+Wiese Research Associates Inc.,Live,heuristic,name pattern: research\s+associates
+"Wiese Research Associates, Inc.",Live,heuristic,name pattern: research\s+associates
+Wilson (R),Live,thesis_2010,
+Wilson Perkins Allen Opinion Research,Live,heuristic,name pattern: opinion\s+research
+Wilson Research (R),Live,thesis_2010,
+Winthrop University,Live,heuristic,name pattern: university(?! of phoenix)
+Winthrop University Center for Public Opinion & Policy Research,Live,heuristic,name pattern: university(?! of phoenix)
+York College,Live,heuristic,name pattern: college
+YouGov,Online,thesis_2010,Internet panel (from thesis data)
+YouGov/Polimetrix,Internet,thesis_2010,
+Zogby,Internet,thesis_2010,
+Zogby Analytics,Online,web_research_2026,Internet and telephone (Zogby transitioned methods over time)
+Zogby Interactive,Online,thesis_2010,Internet panel (from thesis data)
+Zogby Interactive/JZ Analytics,Online,heuristic,name pattern: interactive(?!.*voice)
+ccAdvertising,Unknown,web_research_2026,Limited public information
