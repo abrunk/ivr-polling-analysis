@@ -195,14 +195,30 @@ Undecided voters decline as Election Day approaches in **both** methodologies, b
 
 ## Primary Elections Analysis
 
-For four 2010 primary elections with sufficient data, the thesis tested whether IVR showed greater support for ideologically extreme candidates:
+For four 2010 primary elections with sufficient data, the thesis tested whether IVR showed greater support for ideologically extreme candidates.
+
+### Florida Republican Senate Primary: Rubio vs. Crist
+
+The most striking evidence came from the Florida Republican Senate primary, where Marco Rubio (Tea Party-backed conservative) faced Charlie Crist (moderate establishment incumbent):
+
+![Florida Primary](figures/thesis_fig4_florida_primary.png)
+
+**IVR vs. Live Phone Polling Averages:**
+- **Rubio (Tea Party):** IVR 49.4%, Live 33.0% (**+16.4pp** difference)
+- **Crist (Moderate):** IVR 37.1%, Live 44.4% (**-7.3pp** difference)
+- **Undecided:** IVR 10.2%, Live 22.6% (**-12.4pp** difference)
+
+*Based on 9 IVR polls and 5 live phone polls conducted January-August 2010*
+
+This pattern supports H2: IVR polls over-sampled highly engaged conservative Republican primary voters who strongly preferred Rubio. The massive 12.4pp difference in undecided rates also confirms H1 even in the primary context.
+
+### Other Primaries
 
 **California Republican Gubernatorial Primary:** No significant IVR effect
 **California Republican Senate Primary:** Mixed results
 **Pennsylvania Democratic Senate Primary:** Some evidence for IVR advantage for Sestak (insurgent)
-**Florida Republican Senate Primary:** Some evidence for IVR advantage for Rubio (Tea Party-backed)
 
-The primary results were less conclusive than the general election findings, likely due to smaller sample sizes and the complexity of multiple candidates.
+The primary results were less conclusive than the general election findings for California and Pennsylvania, likely due to smaller sample sizes and the complexity of multiple candidates. However, the Florida primary provided strong supporting evidence for the hypothesis.
 
 ---
 
@@ -269,9 +285,10 @@ This is **not** primarily about social desirability bias. If voters were simply 
 
 ### Visualizations (Modern Seaborn/Matplotlib)
 
-- `figures/thesis_fig1_main_finding.png` - Undecided rates by methodology and month
-- `figures/thesis_fig2_distributions.png` - Distribution comparison
-- `figures/thesis_fig3_temporal.png` - Temporal trends through campaign
+- `figures/thesis_fig1_main_finding.png` - Main finding: IVR shows 2.3pp fewer undecided voters
+- `figures/thesis_fig2_temporal.png` - Temporal pattern: IVR consistently lower through campaign
+- `figures/thesis_fig3_distribution.png` - Distribution comparison showing IVR clustering
+- `figures/thesis_fig4_florida_primary.png` - Florida primary: Rubio vs. Crist IVR/live differences
 
 ### Code
 
